@@ -3,7 +3,7 @@
 **Institution:** Department of Artificial Intelligence, Amrita Vishwa Vidyapeetham, Coimbatore, India  
 **Course:** Database Management System  
 **Batch & Group:** Batch B • Group 18  
-**Repository URL:** https://github.com/puneethkalinga/StockMaster-DBMS  
+**Repository URL:** https://github.com/puneethkalinga/Inventory-Management-System  
 
 ---
 
